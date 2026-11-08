@@ -1,0 +1,22 @@
+{
+  "wheel_id": 852,
+  "structure": "umbrella",
+  "slug": "bendigohomeloanbroker-156",
+  "project": "mortgage-broker-bendigo-budget-tips-c309038481a50943a0aaa178964",
+  "parent_t1_ref": "bendigohomeloanbroker-016",
+  "node_role": "buffer",
+  "money_target": "bendigohomeloanbroker.com.au",
+  "primary_kw": "mortgage broker bendigo budget tips",
+  "intended_url": "https://sitesau.github.io/bendigohomeloanbroker-156/",
+  "tier": "T2",
+  "writeback_nonce": "43ffaaa436149f78",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/mortgage-broker-bendigo-016/",
+      "anchor": "https://sites-e470-1.web.app/mortgage-broker-bendigo-016/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
